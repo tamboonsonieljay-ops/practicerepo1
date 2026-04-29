@@ -1,3 +1,5 @@
-print(" ")
-print("hello")
-print(" ")
+firstname = ("Soniel")
+lastname = ("Tamboon")
+
+print (firstname + lastname)
+
